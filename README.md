@@ -1,1 +1,3 @@
-# CarrChang
+# Carr Chang
+
+Being a programmer...
